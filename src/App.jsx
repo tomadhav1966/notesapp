@@ -26,16 +26,9 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React lnd AWS logos to learn more
       </p>
     </>
-  <div className="App">
-      <header className="App-header">
-        <img src={reactLogo} className="logo react" alt="React logo" />
-
-        <h1>Hello from Amplify</h1>
-      </header>
-    </div>
   )
 }
 
